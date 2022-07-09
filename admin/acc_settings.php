@@ -24,7 +24,7 @@
                 <div class="jumbotron">
                     <p><a class="btn btn-warning" href="javascript:history.back()"><i class="fa-solid fa-angle-left"></i> Back</a></p>
                     
-                    <h2>Account Settings</h2>
+                    <h2>Account Settingss</h2>
                     <hr>
                     <form action="" class="form-horizontal  span9" method="post" autocomplete="off"> 
 
